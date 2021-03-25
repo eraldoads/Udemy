@@ -7,7 +7,7 @@ namespace GameTOP
     {
         static void Main(string[] args)
         {
-            // Contrutor jogar que receve um Jogador
+            // Contrutor jogar que recebe um Jogador.
             var jogo = new JogoFODA(
                 new Jogador1(),
                 new Jogador3()
